@@ -35,6 +35,7 @@ Hello World!
 
 ```make
 make http_request
+```
 
 ```docker
 Building Dockerfile for Application: python_http_request
